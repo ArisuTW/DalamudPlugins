@@ -1,0 +1,28 @@
+[
+  {
+    "Author": "ArisuTW",
+    "Name": "MSQTracker",
+    "Description": "A tracker for MSQ Content",
+    "Punchline": "Bap",
+    "InternalName": "MSQTracker",
+    "AssemblyVersion": "0.0.0.1",
+    "TestingAssemblyVersion": "0.0.0.1",
+    "RepoUrl": "https://github.com/ArisuTW/MSQTracker",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "MSQ",
+      "Tracker",
+      "Dungeons"
+    ],
+    "DalamudApiLevel": 11,
+    "TestingDalamudApiLevel": 11,
+    "IconUrl": "",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1733736379,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/ArisuTW/MSQTracker/releases/download/0.0.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/ArisuTW/MSQTracker/releases/download/0.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ArisuTW/MSQTracker/releases/download/0.0.0.1/latest.zip"
+  }
+]
